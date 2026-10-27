@@ -1,4 +1,8 @@
 ## Megan Salvagni 
+**`Digital Craftsman`**
+
+## Languages and Tools
+![Static Badge](https://img.shields.io/badge/PYTHON-grey?style=flat&logo=python)
 
 <!--
 **MSalvagni/MSalvagni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
